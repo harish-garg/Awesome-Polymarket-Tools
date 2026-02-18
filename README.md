@@ -122,6 +122,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Polymarket Gamma API](https://gamma-api.polymarket.com/) - Official market metadata and event data API
 - [Polymarket CLOB API](https://clob.polymarket.com/) - Official trading API with order book data and execution
 - [Bitquery Polymarket GraphQL](https://graphql.bitquery.io/) - Blockchain data and smart contract events for on-chain analytics
+- [SettleRisk](https://settlerisk.com) - Resolution risk scoring, dispute pricing, and settlement delay modeling API for prediction markets including Polymarket
 
 ## Infrastructure & Integrations
 
