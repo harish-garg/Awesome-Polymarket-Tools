@@ -121,6 +121,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [FinFeedAPI - Prediction Markets](https://finfeed.io/api/prediction-markets) - Unified API for Polymarket, Kalshi, Myriad, and Manifold with OHLCV data
 - [Polymarket Gamma API](https://gamma-api.polymarket.com/) - Official market metadata and event data API
 - [Polymarket CLOB API](https://clob.polymarket.com/) - Official trading API with order book data and execution
+- [Polymarket Scanner API](https://github.com/vesper-astrena/polymarket-scanner-api) - Free REST API for real-time arbitrage detection across 12,000+ Polymarket markets, scanning for exclusive outcome mispricings, ladder contradictions, and cross-market conflicts
 - [Bitquery Polymarket GraphQL](https://graphql.bitquery.io/) - Blockchain data and smart contract events for on-chain analytics
 
 ## Infrastructure & Integrations
