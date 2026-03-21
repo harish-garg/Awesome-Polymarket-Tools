@@ -75,6 +75,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [polymarket-spike-bot](https://github.com/username/polymarket-spike-bot) - High-frequency spike detection bot with real-time monitoring and automated execution
 - [polymarket-trading](https://github.com/username/polymarket-trading) - Command-line trading tool with simple CLI interface
+- [SimpleFunctions CLI](https://github.com/spfunctions/simplefunctions-cli) - Autonomous prediction market agent with 25+ tools. Causal thesis models, Polymarket orderbook depth analysis, edge detection, 24/7 monitoring, what-if scenarios. MCP server for Claude Code/Cursor. `npm install -g @spfunctions/cli`
 
 ### Copy Trading
 
