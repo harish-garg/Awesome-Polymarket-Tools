@@ -128,6 +128,7 @@ Polymarket is a decentralized information markets platform where users can trade
 ### AI Agent Integrations (MCP)
 
 - [Sim.ai - Polymarket](https://sim.ai/mcp/polymarket) - MCP integration for AI agents with market listing, price data, and order book access
+- [Engram Agent Translator Middleware](https://github.com/kwstx/engram_translator) — Universal bridge for AI agents (MCP/A2A/ACP) with native MiroFish swarm syncing and multi-platform trading templates.
 
 ### API Marketplaces
 
