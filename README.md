@@ -54,6 +54,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ### General Analytics
 
+- [Polyguana](https://polyguana.com/) - Polymarket analytics dashboard with trader leaderboards, whale tracking, portfolio performance, and real-time market data
 - [Polymarket Analytics](https://polymarket-analytics.com/) - Market search, activity monitoring, and portfolio tracking across multiple platforms
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
@@ -142,6 +143,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ### Research & Analysis
 
+- [pm.wiki](https://pm.wiki/) - Independent prediction market directory covering 350+ tools and platforms with side-by-side comparisons, reviews, and analytics
 - [Prediction Market FAQ](https://astralcodexten.substack.com/p/prediction-market-faq) - Comprehensive FAQ by Scott Alexander
 - [The Passage of Polymarket](https://astralcodexten.substack.com/p/the-passage-of-polymarket) - Deep dive into Polymarket's rise
 - [Market Mechanics](https://manifoldmarkets.substack.com/p/above-the-fold-market-mechanics) - Understanding prediction market mechanics
