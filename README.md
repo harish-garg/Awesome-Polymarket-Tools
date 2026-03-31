@@ -73,6 +73,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ### Trading & Execution
 
+- [TigerPass](https://github.com/TigerPassNet/tigerpass-skill) - Hardware-secured Polymarket trading terminal for AI agents with built-in arbitrage strategies and Apple Secure Enclave key storage
 - [polymarket-spike-bot](https://github.com/username/polymarket-spike-bot) - High-frequency spike detection bot with real-time monitoring and automated execution
 - [polymarket-trading](https://github.com/username/polymarket-trading) - Command-line trading tool with simple CLI interface
 
