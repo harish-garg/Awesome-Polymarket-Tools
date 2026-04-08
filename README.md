@@ -118,6 +118,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ## Data APIs & Aggregators
 
+- [ClearMarket](https://github.com/JDSource/clearmarket) - Structured intelligence layer that adds parsed resolution logic, catalyst calendars, cross-platform mapping, and related market links to raw Polymarket and Kalshi data. 20 enriched market records.
 - [FinFeedAPI - Prediction Markets](https://finfeed.io/api/prediction-markets) - Unified API for Polymarket, Kalshi, Myriad, and Manifold with OHLCV data
 - [Polymarket Gamma API](https://gamma-api.polymarket.com/) - Official market metadata and event data API
 - [Polymarket CLOB API](https://clob.polymarket.com/) - Official trading API with order book data and execution
