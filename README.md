@@ -132,6 +132,7 @@ Polymarket is a decentralized information markets platform where users can trade
 ### API Marketplaces
 
 - [Polymark.et](https://polymark.et/) - Comprehensive directory of Polymarket tools and products
+- [pmxt](https://github.com/pmxt-dev/pmxt) - The CCXT of prediction markets: a unified api to trade across prediction markets.
 
 ## Educational Resources
 
