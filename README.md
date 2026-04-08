@@ -115,6 +115,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [PolyxBot](https://t.me/polyxbot) - AI-powered intelligence tool with whale tracking and predictive signals
 - [Polycool Bot](https://t.me/polycoolapp_bot) - Copy-trading tool for following winning wallets and profitable whales
 - [PolyAlertHub](https://t.me/polyalerthub) - Alert system with whale tracking, volatility monitoring, and multi-channel alerts
+- [ScoreEdge](https://scoreedge.app?utm_source=github&utm_medium=awesome-list) — Real-time sports alerts for Polymarket and Kalshi traders. Set rules on score changes, lead flips, and play-by-play events — get notified via Telegram or email the moment something happens on the field, before markets reprice.
 
 ## Data APIs & Aggregators
 
