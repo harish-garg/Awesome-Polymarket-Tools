@@ -87,8 +87,10 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [polymarket-apis](https://pypi.org/project/polymarket-apis/) - Unified Polymarket APIs with Pydantic models for CLOB, Gamma, Data, Web3, WebSocket, and GraphQL clients
 - [py-clob-client](https://pypi.org/project/py-clob-client/) - Official Python client for Polymarket's CLOB with order execution and market data
+- [PMXT](https://github.com/pmxt-dev/pmxt) - The unified API for prediction markets.
 
 ### JavaScript/TypeScript
+- [PMXT](https://github.com/pmxt-dev/pmxt) - The unified API for prediction markets.
 
 #### Official SDKs
 
