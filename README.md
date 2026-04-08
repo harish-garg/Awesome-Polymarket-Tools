@@ -50,7 +50,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [PolyTrack](https://polytrack.org/) - Comprehensive whale tracking with real-time alerts, leaderboards, P&L tracking, and detailed trader profiles
 - [Polywhaler](https://polywhaler.com/) - Track $10k+ trades with insider activity detection and AI-powered predictions
-- [Poly Whales Tracker](https://polywhalestracker.com/) - Elite trader monitoring with real-time alerts and historical performance analysis
+- [PolyIntelHub](https://polyintelhub.com) - Real-time whale trade intelligence with insider scoring, fresh wallet detection, 8 automated trading strategies, probability arbitrage scanner, and multi-channel alerts. Free tier available.- [Poly Whales Tracker](https://polywhalestracker.com/) - Elite trader monitoring with real-time alerts and historical performance analysis
 
 ### General Analytics
 
