@@ -87,6 +87,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [polymarket-apis](https://pypi.org/project/polymarket-apis/) - Unified Polymarket APIs with Pydantic models for CLOB, Gamma, Data, Web3, WebSocket, and GraphQL clients
 - [py-clob-client](https://pypi.org/project/py-clob-client/) - Official Python client for Polymarket's CLOB with order execution and market data
+- [polymarket-pandas](https://pypi.org/project/polymarket-pandas/) - Pandas-native Python SDK wrapping every Polymarket API (CLOB, Gamma, Data, Rewards, Bridge, WebSocket) with DataFrame returns, pandera schemas, async support, and built-in pagination
 
 ### JavaScript/TypeScript
 
