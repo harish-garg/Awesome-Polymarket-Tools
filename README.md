@@ -150,6 +150,8 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [BaseRateTimes](https://www.baseratetimes.com/) - News through the lens of prediction markets including Polymarket
 
+
+- [LearnAI Polymarket Course](https://www.uselearnai.com/chat?topic=Polymarket) - AI-powered interactive course and personal tutor for Polymarket — covers prediction market fundamentals, trading mechanics, and strategy through adaptive conversation
 ## Community
 
 ### Social Media
