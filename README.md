@@ -59,6 +59,8 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
 
+- **[PolyMind](https://polyminds.netlify.app/)** - AI-powered real-time alert system with multi-model analysis (Groq, Claude, Gemini), 12 signal types, market tracking, and freemium pricing with 5 free live signals per day.
+
 ## Trading Bots & Automation
 
 ### Official & Featured
