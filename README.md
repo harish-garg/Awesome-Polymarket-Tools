@@ -35,6 +35,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Polyteller](https://chromewebstore.google.com/detail/polyteller) - Essential trading tools including real-time countdowns, smart notifications, and privacy mode
 - [Polyhelper](https://chromewebstore.google.com/detail/polyhelper) - Enhanced Polymarket experience with countdowns, notifications, and privacy features
 - [Nevua Markets Plugin](https://chromewebstore.google.com/detail/nevua-markets-plugin) - Price alerts with over/under thresholds and real-time monitoring
+- [MiroPoly](https://chromewebstore.google.com/detail/miropoly) - Telegram bot with limit orders, copy trading, portfolio tracking + Chrome extension with 20+ intelligence panels
 
 ### Firefox Extensions
 
@@ -115,6 +116,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [PolyxBot](https://t.me/polyxbot) - AI-powered intelligence tool with whale tracking and predictive signals
 - [Polycool Bot](https://t.me/polycoolapp_bot) - Copy-trading tool for following winning wallets and profitable whales
 - [PolyAlertHub](https://t.me/polyalerthub) - Alert system with whale tracking, volatility monitoring, and multi-channel alerts
+- [MiroPoly](https://t.me/miropoly_bot) - Telegram bot with limit orders, copy trading, portfolio tracking + Chrome extension with 20+ intelligence panels
 
 ## Data APIs & Aggregators
 
