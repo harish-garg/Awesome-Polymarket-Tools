@@ -131,6 +131,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ### API Marketplaces
 
+- [LaunchPoly](https://launchpoly.com) - Community-voted directory of Polymarket tools (bots, analytics, alerts, trackers, extensions)
 - [Polymark.et](https://polymark.et/) - Comprehensive directory of Polymarket tools and products
 
 ## Educational Resources
