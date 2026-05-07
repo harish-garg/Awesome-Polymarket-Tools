@@ -58,6 +58,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
+- [Qwidgets](https://predictions.qwidgets.com) - Cross-exchange prediction market workspace builder with full Polymarket event support. Compose Polymarket markets alongside Kalshi and other exchanges into shareable analytical workspaces with charts, order books, P&L projections, and options-style analytics.
 
 ## Trading Bots & Automation
 
