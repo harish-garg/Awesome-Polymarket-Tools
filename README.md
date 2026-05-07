@@ -75,6 +75,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [polymarket-spike-bot](https://github.com/username/polymarket-spike-bot) - High-frequency spike detection bot with real-time monitoring and automated execution
 - [polymarket-trading](https://github.com/username/polymarket-trading) - Command-line trading tool with simple CLI interface
+- [oracle3](https://github.com/YichengYang-Ethan/oracle3) - Autonomous Polymarket trading agent (also supports Kalshi and Solana DFlow) with Wang Transform pricing (291k-contract calibration, λ̂ = 0.183), eight constraint-based arbitrage strategies including cross-market detection, and Kelly-sized execution. Apache 2.0; SSRN working paper.
 
 ### Copy Trading
 
