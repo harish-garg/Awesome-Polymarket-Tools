@@ -35,6 +35,9 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Polyteller](https://chromewebstore.google.com/detail/polyteller) - Essential trading tools including real-time countdowns, smart notifications, and privacy mode
 - [Polyhelper](https://chromewebstore.google.com/detail/polyhelper) - Enhanced Polymarket experience with countdowns, notifications, and privacy features
 - [Nevua Markets Plugin](https://chromewebstore.google.com/detail/nevua-markets-plugin) - Price alerts with over/under thresholds and real-time monitoring
+- [PolySmart](https://chromewebstore.google.com/detail/polysmart-%E2%80%94-smart-money-a/jkbeggmpenineniihnhhabjgamcigoho) - Smart money analyzer with real-time whale tracking, entry price detection, and holder win-rate scoring on every market page
+- [PolyChart](https://chromewebstore.google.com/detail/polychart-candlestick-cha/gdfcfkbghfcpbepdeehfnofadgmjbmio) - Professional candlestick (K-line) charts for Polymarket prediction markets with technical analysis overlays
+- [PolySniper](https://chromewebstore.google.com/detail/polysniper-polymarket-arb/mljgjdaaopkcipmkdeafdopnopbaompo) - Real-time negRisk arbitrage scanner with CLOB-verified signals, spread calculation, and orderbook depth
 
 ### Firefox Extensions
 
