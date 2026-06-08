@@ -78,6 +78,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ### Copy Trading
 
+- [FrenFlow](https://www.frenflow.com/copytrading) - Non-custodial block-0 copy trading across Polymarket and Kalshi; mirrors a leader's fills in the same block via mempool detection, with verified on-chain PnL leaderboards, per-trade stake caps and HFT-bot flagging. Web and Telegram.
 - [polymarket-copy-trading-bot](https://github.com/username/polymarket-copy-trading-bot) - Automated copy trading with real-time monitoring of top traders
 - [polymarket-trade-copier](https://github.com/username/polymarket-trade-copier) - Enterprise-grade trade copier with blockchain event tracking
 
