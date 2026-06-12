@@ -75,6 +75,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [polymarket-spike-bot](https://github.com/username/polymarket-spike-bot) - High-frequency spike detection bot with real-time monitoring and automated execution
 - [polymarket-trading](https://github.com/username/polymarket-trading) - Command-line trading tool with simple CLI interface
+- [WinWeatherBot](https://winweatherbot.com) - Automated weather trading for Polymarket markets; a 138-model forecast ensemble with correlation-aware sizing and sub-200ms order execution, packaged as a self-custody, Microsoft-signed Windows app
 
 ### Copy Trading
 
