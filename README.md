@@ -55,6 +55,7 @@ Polymarket is a decentralized information markets platform where users can trade
 ### General Analytics
 
 - [Polymarket Analytics](https://polymarket-analytics.com/) - Market search, activity monitoring, and portfolio tracking across multiple platforms
+- [SignalRadar](https://github.com/vahnxu/signalradar) - Zero-dependency Python CLI that monitors Polymarket markets for probability changes and pushes threshold alerts (webhook/Telegram/file) with 7-day trend and volume context. Agent-friendly: frozen JSON contracts and deterministic CLI
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
