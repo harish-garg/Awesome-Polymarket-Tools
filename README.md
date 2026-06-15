@@ -85,6 +85,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ### Python
 
+- [polymarket-api-python](https://pypi.org/project/polymarket-api-python/) - Typed client to read Gamma markets, snapshot and stream the CLOB order book, generate idempotent client order ids, and place orders
 - [polymarket-apis](https://pypi.org/project/polymarket-apis/) - Unified Polymarket APIs with Pydantic models for CLOB, Gamma, Data, Web3, WebSocket, and GraphQL clients
 - [py-clob-client](https://pypi.org/project/py-clob-client/) - Official Python client for Polymarket's CLOB with order execution and market data
 
