@@ -88,6 +88,10 @@ Polymarket is a decentralized information markets platform where users can trade
 - [polymarket-apis](https://pypi.org/project/polymarket-apis/) - Unified Polymarket APIs with Pydantic models for CLOB, Gamma, Data, Web3, WebSocket, and GraphQL clients
 - [py-clob-client](https://pypi.org/project/py-clob-client/) - Official Python client for Polymarket's CLOB with order execution and market data
 
+### Rust
+
+- [polyfill-rs](https://github.com/floor-licker/polyfill-rs) - High-performance Polymarket Rust client with latency-optimized data structures, zero-allocation hot paths, and CLOB API support
+
 ### JavaScript/TypeScript
 
 #### Official SDKs
