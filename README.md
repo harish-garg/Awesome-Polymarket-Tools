@@ -58,6 +58,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
+- [polymarket-pnl](https://github.com/LuciferForge/polymarket-pnl) - Instant command-line P&L breakdown for any Polymarket wallet, no API keys required
 
 ## Trading Bots & Automation
 
@@ -75,6 +76,8 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [polymarket-spike-bot](https://github.com/username/polymarket-spike-bot) - High-frequency spike detection bot with real-time monitoring and automated execution
 - [polymarket-trading](https://github.com/username/polymarket-trading) - Command-line trading tool with simple CLI interface
+- [polymarket-odds-scanner](https://github.com/LuciferForge/polymarket-odds-scanner) - Finds mispriced sports markets by comparing Polymarket prices against sportsbook odds
+- [polymarket-settlement-bot](https://github.com/LuciferForge/polymarket-settlement-bot) - Auto-redeems resolved Polymarket positions back to USDC
 
 ### Copy Trading
 
@@ -122,12 +125,16 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Polymarket Gamma API](https://gamma-api.polymarket.com/) - Official market metadata and event data API
 - [Polymarket CLOB API](https://clob.polymarket.com/) - Official trading API with order book data and execution
 - [Bitquery Polymarket GraphQL](https://graphql.bitquery.io/) - Blockchain data and smart contract events for on-chain analytics
+- [protodex.io](https://protodex.io) - Free Polymarket screener and data API indexing 19,300+ markets
+- [polymarket-api](https://github.com/LuciferForge/polymarket-api) - Free, open-source REST API serving 10M+ historical Polymarket price snapshots
+- [polymarket-historical-data](https://github.com/LuciferForge/polymarket-historical-data) - Open historical Polymarket price dataset, 19M+ snapshots across 19,300+ markets
 
 ## Infrastructure & Integrations
 
 ### AI Agent Integrations (MCP)
 
 - [Sim.ai - Polymarket](https://sim.ai/mcp/polymarket) - MCP integration for AI agents with market listing, price data, and order book access
+- [polymarket-mcp](https://github.com/LuciferForge/polymarket-mcp) - Live Polymarket data exposed as MCP tools for Claude and other AI agents (PyPI: polymarket-mcp-pro)
 
 ### API Marketplaces
 
