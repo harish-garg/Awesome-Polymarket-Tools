@@ -80,6 +80,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [polymarket-copy-trading-bot](https://github.com/username/polymarket-copy-trading-bot) - Automated copy trading with real-time monitoring of top traders
 - [polymarket-trade-copier](https://github.com/username/polymarket-trade-copier) - Enterprise-grade trade copier with blockchain event tracking
+- [polymarket-honest-tools](https://github.com/yntymacho/polymarket-honest-tools) - Copy-trade validator that tests whether a wallet's edge survives realistic fills, fees, and out-of-sample, before you copy it; includes a demo prediction-market cockpit and an on-chain pump.fun wallet scanner
 
 ## API Libraries & SDKs
 
