@@ -15,6 +15,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Telegram Bots](#telegram-bots)
 - [Data APIs & Aggregators](#data-apis--aggregators)
 - [Infrastructure & Integrations](#infrastructure--integrations)
+- [DeFi & Leverage](#defi--leverage)
 - [Educational Resources](#educational-resources)
 - [Community](#community)
 
@@ -132,6 +133,10 @@ Polymarket is a decentralized information markets platform where users can trade
 ### API Marketplaces
 
 - [Polymark.et](https://polymark.et/) - Comprehensive directory of Polymarket tools and products
+
+## DeFi & Leverage
+
+- [PredMart](https://predmart.com) - Non-custodial margin account for Polymarket: trade with up to 5x leverage in one click, or borrow USDC against prediction-market shares you already hold. Built on Polygon.
 
 ## Educational Resources
 
