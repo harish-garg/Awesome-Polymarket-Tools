@@ -46,6 +46,10 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ## Analytics & Tracking
 
+### Weather Markets
+
+- [Polymarket Weather Command Center](https://github.com/testedmedia/polymarket-weather-command-center) - Open-source (Apache-2.0) dashboard for temperature markets: multi-model forecasts, live ASOS/METAR airport-sensor observations, bucket probabilities and market edge across 41 cities
+
 ### Whale Tracking
 
 - [PolyTrack](https://polytrack.org/) - Comprehensive whale tracking with real-time alerts, leaderboards, P&L tracking, and detailed trader profiles
