@@ -59,6 +59,10 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
 
+### Signals & Verified Picks
+
+- [Cobia Picks](https://cobiapicks.com) - Tracks proven Polymarket wallets and scores each signal with a trained model (the Cobia Score), then grades every pick in public — 2,000+ resolved, losses included, none deleted. Free daily pick, a no-vig odds board, and a nightly MLB home-run board.
+
 ## Trading Bots & Automation
 
 ### Official & Featured
