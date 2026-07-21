@@ -70,6 +70,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [poly-maker](https://github.com/dev-0x7C6/poly-maker) - Automated market making bot with Google Sheets configuration and position merging
 - [polymarket-marketmaking](https://github.com/0xMel/polymarket-marketmaking) - Band-based market making bot with automated order management
+- [polymm](https://github.com/kachence/polymm) - Polymarket sports market-making / arbitrage bot in Python, de-vigs sportsbook odds, quotes limit orders, and hedges to lock the arb
 
 ### Trading & Execution
 
