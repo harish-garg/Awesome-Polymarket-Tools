@@ -122,12 +122,14 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Polymarket Gamma API](https://gamma-api.polymarket.com/) - Official market metadata and event data API
 - [Polymarket CLOB API](https://clob.polymarket.com/) - Official trading API with order book data and execution
 - [Bitquery Polymarket GraphQL](https://graphql.bitquery.io/) - Blockchain data and smart contract events for on-chain analytics
+- [Predge Whale Data](https://data.predge.io) - Pay-per-call API for whale trades ($10k+) with outcome-verified wallet scoring, smart-money consensus, and daily signals; USDC micropayments via x402, no API keys or accounts
 
 ## Infrastructure & Integrations
 
 ### AI Agent Integrations (MCP)
 
 - [Sim.ai - Polymarket](https://sim.ai/mcp/polymarket) - MCP integration for AI agents with market listing, price data, and order book access
+- [Predge Whale Data MCP](https://github.com/predgeAI/whale-data-mcp) - MCP server exposing whale trades, win-rate wallet leaderboards, and smart-money consensus as agent tools, paid per call in USDC on Base
 
 ### API Marketplaces
 
