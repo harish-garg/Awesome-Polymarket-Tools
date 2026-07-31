@@ -122,6 +122,8 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Polymarket Gamma API](https://gamma-api.polymarket.com/) - Official market metadata and event data API
 - [Polymarket CLOB API](https://clob.polymarket.com/) - Official trading API with order book data and execution
 - [Bitquery Polymarket GraphQL](https://graphql.bitquery.io/) - Blockchain data and smart contract events for on-chain analytics
+- [Predge Whale Data](https://data.predge.io) - Outcome-verified Polymarket/Kalshi whale intelligence for AI agents: whale trades ($10k+) with realized win-rate wallet scoring and smart-money consensus, plus ed25519-signed settled market & sports outcomes verifiable offline; pay-per-call USDC on Base/Solana via x402, no API keys or accounts
+- [Predge Whale Data MCP](https://github.com/predgeAI/whale-data-mcp) - MCP server exposing Predge's 20 x402 endpoints as agent tools — whale trades, win-rate wallet leaderboards, smart-money consensus, and ed25519-signed settled outcomes; pay-per-call USDC on Base/Solana, no API keys
 
 ## Infrastructure & Integrations
 
