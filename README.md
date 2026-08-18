@@ -109,6 +109,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ## Telegram Bots
 
+- [Polyburg](https://polyburg.com) - Telegram mini-app for automatic copy trading: curates Polymarket's most consistent traders from on-chain history, mirrors them into your own wallet via Copy Rules, or invests one deposit in a managed Preset (Steady · Smart · Sharp). Scalper-cycle filtering and protective sells built in; Polymarket Builders-Program member
 - [Polycule](https://t.me/polyculebot) - Telegram trading bot with group trading, copy trading, wallet tracking, and mobile-first design
 - [PolyFocus](https://t.me/polyfocusbot) - Trading bot with copy trading, multi-chain wallet, market search, and position tracking
 - [Polysight](https://t.me/polysightbot) - Real-time market insights bot with fast alerts and actionable summaries
