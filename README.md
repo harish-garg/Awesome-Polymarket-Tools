@@ -75,6 +75,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [polymarket-spike-bot](https://github.com/username/polymarket-spike-bot) - High-frequency spike detection bot with real-time monitoring and automated execution
 - [polymarket-trading](https://github.com/username/polymarket-trading) - Command-line trading tool with simple CLI interface
+- [OraclePoly](https://github.com/Socialpranker/oraclepoly) - Detector pipeline + ML calibration + Kelly risk sizing + CLOB execution daemon, with a 4-stage promotion gate (backtest/shadow/virtual/live) before any detector touches real money. Includes an honest writeup of what worked and what didn't.
 
 ### Copy Trading
 
