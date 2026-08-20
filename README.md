@@ -101,6 +101,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [@polybased/sdk](https://www.npmjs.com/package/@polybased/sdk) - Comprehensive TypeScript toolkit with real-time data and WebSocket streams
 - [@dicedhq/polymarket](https://jsr.io/@dicedhq/polymarket) - TypeScript client with CLOB and Gamma client support
 - [polymarket-data](https://www.npmjs.com/package/polymarket-data) - Community TypeScript client for public data access with type safety
+- [@dimes-fi/multiply-sdk](https://www.npmjs.com/package/@dimes-fi/multiply-sdk) - TypeScript SDK for adding leveraged Polymarket positions to a front-end, with sandbox mode and WebSocket position updates
 
 #### Integrations & Plugins
 
@@ -125,9 +126,16 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ## Infrastructure & Integrations
 
+### Leverage & Margin
+
+- [Dimes](https://dimes.fi/) - Embedded credit infrastructure letting front-ends offer 2-10x leveraged Polymarket exposure via REST API, with credit provisioning, hedging, and settlement handled externally
+- [PredMart](https://predmart.com/) - Non-custodial margin account for Polymarket with up to 5x leverage; deposit market shares as collateral and borrow USDC
+- [Polyperp](https://polyperp.gitbook.io/docs/trading/leveraged-positions) - Leveraged positions on Polymarket event probabilities with up to 10x exposure, fully collateralized in USDC
+
 ### AI Agent Integrations (MCP)
 
 - [Sim.ai - Polymarket](https://sim.ai/mcp/polymarket) - MCP integration for AI agents with market listing, price data, and order book access
+- [@dimes-fi/multiply-mcp](https://www.npmjs.com/package/@dimes-fi/multiply-mcp) - MCP server exposing leveraged Polymarket positions to AI agents for quoting, opening, and monitoring
 
 ### API Marketplaces
 
