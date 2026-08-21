@@ -122,6 +122,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Polymarket Gamma API](https://gamma-api.polymarket.com/) - Official market metadata and event data API
 - [Polymarket CLOB API](https://clob.polymarket.com/) - Official trading API with order book data and execution
 - [Bitquery Polymarket GraphQL](https://graphql.bitquery.io/) - Blockchain data and smart contract events for on-chain analytics
+- [Live Tennis API](https://livetennisapi.com) - Live tennis match-state feed (score, server, break-point flag, retirement/walkover/completed status) with player rankings and Elo for tennis event markets; free tier, no card
 
 ## Infrastructure & Integrations
 
