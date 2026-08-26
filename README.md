@@ -115,6 +115,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [PolyxBot](https://t.me/polyxbot) - AI-powered intelligence tool with whale tracking and predictive signals
 - [Polycool Bot](https://t.me/polycoolapp_bot) - Copy-trading tool for following winning wallets and profitable whales
 - [PolyAlertHub](https://t.me/polyalerthub) - Alert system with whale tracking, volatility monitoring, and multi-channel alerts
+- [PolySpark](https://t.me/polysparkbot?start=c_gh_harish) - Telegram copy trading bot with 0–1 block fills behind the target wallet, proportional sizing, and Turnkey-secured keys
 
 ## Data APIs & Aggregators
 
