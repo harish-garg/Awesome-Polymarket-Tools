@@ -58,6 +58,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
+- [PolymarketScan](https://polymarketscan.org/) - Independent Polymarket explorer (whale prints, wallets, [airdrop checker](https://polymarketscan.org/airdrop), [best traders](https://polymarketscan.org/best-polymarket-traders))
 
 ## Trading Bots & Automation
 
@@ -122,6 +123,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Polymarket Gamma API](https://gamma-api.polymarket.com/) - Official market metadata and event data API
 - [Polymarket CLOB API](https://clob.polymarket.com/) - Official trading API with order book data and execution
 - [Bitquery Polymarket GraphQL](https://graphql.bitquery.io/) - Blockchain data and smart contract events for on-chain analytics
+- [PolymarketScan API](https://polymarketscan.org/api) / [Agent API](https://polymarketscan.org/agents) - Free no-auth API and MCP endpoint for Polymarket wallet, trade, and market data
 
 ## Infrastructure & Integrations
 
