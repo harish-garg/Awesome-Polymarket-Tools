@@ -58,6 +58,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
+- [Vultax](https://app.vultax.com/analytics/traders) - Polymarket leaderboard by observed P&L with trader profiles, a market directory, and live topic rooms (midterms, Fed, world elections, NFL, soccer, esports) that also compare Kalshi prices
 
 ## Trading Bots & Automation
 
@@ -128,6 +129,7 @@ Polymarket is a decentralized information markets platform where users can trade
 ### AI Agent Integrations (MCP)
 
 - [Sim.ai - Polymarket](https://sim.ai/mcp/polymarket) - MCP integration for AI agents with market listing, price data, and order book access
+- [Vultax Research MCP](https://vultax.com/research-access) - Remote MCP server (streamable HTTP, no API key) that searches published Polymarket and Kalshi studies and returns their source-labelled datasets
 
 ### API Marketplaces
 
@@ -145,6 +147,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Prediction Market FAQ](https://astralcodexten.substack.com/p/prediction-market-faq) - Comprehensive FAQ by Scott Alexander
 - [The Passage of Polymarket](https://astralcodexten.substack.com/p/the-passage-of-polymarket) - Deep dive into Polymarket's rise
 - [Market Mechanics](https://manifoldmarkets.substack.com/p/above-the-fold-market-mechanics) - Understanding prediction market mechanics
+- [Vultax Research](https://vultax.com/research) - Measured studies with downloadable data: settlement times, Kalshi–Polymarket gaps after fees, price calibration on 6,776 resolved markets, trader persistence, copy-trading costs
 
 ### News & Aggregators
 
