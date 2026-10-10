@@ -75,6 +75,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [polymarket-spike-bot](https://github.com/username/polymarket-spike-bot) - High-frequency spike detection bot with real-time monitoring and automated execution
 - [polymarket-trading](https://github.com/username/polymarket-trading) - Command-line trading tool with simple CLI interface
+- [OddsFantasy](https://oddsfantasy.com) - Sports trading terminal that prices Polymarket sports markets against Pinnacle and other sportsbooks, with +EV signals, one-click gasless trading, automated entries and Telegram alerts
 
 ### Copy Trading
 
