@@ -78,6 +78,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ### Copy Trading
 
+- [BlockRotate](https://blockrotate.com/) - Institutional-grade, sub-millisecond copy trading engine that automatically mirrors elite Polymarket traders with non-custodial L2 execution
 - [polymarket-copy-trading-bot](https://github.com/username/polymarket-copy-trading-bot) - Automated copy trading with real-time monitoring of top traders
 - [polymarket-trade-copier](https://github.com/username/polymarket-trade-copier) - Enterprise-grade trade copier with blockchain event tracking
 
