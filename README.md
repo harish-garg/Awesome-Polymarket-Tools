@@ -51,6 +51,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [PolyTrack](https://polytrack.org/) - Comprehensive whale tracking with real-time alerts, leaderboards, P&L tracking, and detailed trader profiles
 - [Polywhaler](https://polywhaler.com/) - Track $10k+ trades with insider activity detection and AI-powered predictions
 - [Poly Whales Tracker](https://polywhalestracker.com/) - Elite trader monitoring with real-time alerts and historical performance analysis
+- [CrowdIntel](https://crowdintel.xyz/) - Wallet dossiers with sample-size-adjusted win rates, funding-cluster detection, bot/human verdicts, and public investigation reports
 
 ### General Analytics
 
@@ -122,12 +123,14 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Polymarket Gamma API](https://gamma-api.polymarket.com/) - Official market metadata and event data API
 - [Polymarket CLOB API](https://clob.polymarket.com/) - Official trading API with order book data and execution
 - [Bitquery Polymarket GraphQL](https://graphql.bitquery.io/) - Blockchain data and smart contract events for on-chain analytics
+- [CrowdIntel API](https://crowdintel.xyz/api-docs) - REST API over 1.88B indexed Polymarket fills: wallet statistics, edge screener, market flow, funding clusters, crypto TWAP settlement feed
 
 ## Infrastructure & Integrations
 
 ### AI Agent Integrations (MCP)
 
 - [Sim.ai - Polymarket](https://sim.ai/mcp/polymarket) - MCP integration for AI agents with market listing, price data, and order book access
+- [CrowdIntel MCP](https://mcp.crowdintel.xyz/.well-known/mcp.json) - Read-only MCP server for Claude, Cursor and other MCP clients: wallet dossiers, insider signals, funding clusters, whale flow and market movers
 
 ### API Marketplaces
 
