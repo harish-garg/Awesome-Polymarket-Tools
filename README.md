@@ -70,11 +70,13 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [poly-maker](https://github.com/dev-0x7C6/poly-maker) - Automated market making bot with Google Sheets configuration and position merging
 - [polymarket-marketmaking](https://github.com/0xMel/polymarket-marketmaking) - Band-based market making bot with automated order management
+- [polymarket-avellaneda-stoikov-market-maker](https://github.com/polytutor-ai/polymarket-avellaneda-stoikov-market-maker) - Avellaneda-Stoikov market maker for BTC binaries with Black-Scholes fair value and Hyperliquid delta hedging
 
 ### Trading & Execution
 
 - [polymarket-spike-bot](https://github.com/username/polymarket-spike-bot) - High-frequency spike detection bot with real-time monitoring and automated execution
 - [polymarket-trading](https://github.com/username/polymarket-trading) - Command-line trading tool with simple CLI interface
+- [polymarket-adaptive-trading-desk](https://github.com/polytutor-ai/polymarket-adaptive-trading-desk) - Four competing self-learning bots for BTC 5-minute Up/Down markets with shared risk engine and live dashboard
 
 ### Copy Trading
 
@@ -145,6 +147,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Prediction Market FAQ](https://astralcodexten.substack.com/p/prediction-market-faq) - Comprehensive FAQ by Scott Alexander
 - [The Passage of Polymarket](https://astralcodexten.substack.com/p/the-passage-of-polymarket) - Deep dive into Polymarket's rise
 - [Market Mechanics](https://manifoldmarkets.substack.com/p/above-the-fold-market-mechanics) - Understanding prediction market mechanics
+- [Polymarket Strategy Handbook](https://github.com/polytutor-ai/polymarket-strategy-handbook) - Research docs on 39 prediction-market strategies, backtesting, and risk
 
 ### News & Aggregators
 
