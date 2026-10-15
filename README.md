@@ -139,6 +139,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [Polymarket Trading Guide](https://polymarket.com/guide) - Official beginner's guide to trading on Polymarket
 - [How to Use the Polymarket API](https://docs.polymarket.com/api-guide) - API integration tutorials
+- [Prediction Market Use Cases: Polymarket](https://prediction-market-use-cases.vercel.app/platform/polymarket/) - Free directory of 24 public Polymarket bots, agents and tools with source links and dates, plus a guide to building a Polymarket bot.
 
 ### Research & Analysis
 
