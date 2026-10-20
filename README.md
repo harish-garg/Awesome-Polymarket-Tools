@@ -75,6 +75,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [polymarket-spike-bot](https://github.com/username/polymarket-spike-bot) - High-frequency spike detection bot with real-time monitoring and automated execution
 - [polymarket-trading](https://github.com/username/polymarket-trading) - Command-line trading tool with simple CLI interface
+- [Melbo](https://melbo.io) - Melbo is a non-custodial interface to prediction markets: trade Yes/No shares on real-world events, where the price shows the market's probability.
 
 ### Copy Trading
 
