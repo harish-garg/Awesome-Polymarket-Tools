@@ -122,6 +122,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [Polymarket Gamma API](https://gamma-api.polymarket.com/) - Official market metadata and event data API
 - [Polymarket CLOB API](https://clob.polymarket.com/) - Official trading API with order book data and execution
 - [Bitquery Polymarket GraphQL](https://graphql.bitquery.io/) - Blockchain data and smart contract events for on-chain analytics
+- [PredMarket Data API](https://predmarket-data.pages.dev/v1) - Free public-beta JSON/CSV API for Polymarket and Kalshi markets and price history, no key required
 
 ## Infrastructure & Integrations
 
