@@ -73,6 +73,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ### Trading & Execution
 
+- [LumiBot](https://github.com/Lumiwealth/lumibot) - Open-source Python framework with a Polymarket broker, backtesting, and the same strategy code running live
 - [polymarket-spike-bot](https://github.com/username/polymarket-spike-bot) - High-frequency spike detection bot with real-time monitoring and automated execution
 - [polymarket-trading](https://github.com/username/polymarket-trading) - Command-line trading tool with simple CLI interface
 
