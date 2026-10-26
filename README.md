@@ -58,6 +58,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
+- [Mispria](https://mispria.com) - Nightly-graded record of Polymarket's crypto Up or Down markets (BTC, ETH, SOL, XRP; 5m, 15m, 1h): Brier scores, calibration, paper results with 95% intervals, and a live probability terminal (free for BTC). Analytics only, not financial advice, 18+.
 
 ## Trading Bots & Automation
 
