@@ -65,6 +65,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [Polymarket Agents](https://github.com/Polymarket/agents) - Official AI agents framework with LLM integration, autonomous trading capabilities, and modular architecture
 - [poly-market-maker](https://github.com/Polymarket/poly-market-maker) - Official CLOB market maker with bands or AMM strategy and Docker support
+- [WhichBot](https://whichbot.ai/prediction-markets/) - Directory comparing prediction-market trading bots for Polymarket and Kalshi
 
 ### Market Making Bots
 
