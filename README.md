@@ -139,12 +139,14 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [Polymarket Trading Guide](https://polymarket.com/guide) - Official beginner's guide to trading on Polymarket
 - [How to Use the Polymarket API](https://docs.polymarket.com/api-guide) - API integration tutorials
+- [Polymarket API in Python](https://rizon.markets/learn/polymarket-api-python) - Tested code for reading markets, streaming books and placing orders with polymarket-client
 
 ### Research & Analysis
 
 - [Prediction Market FAQ](https://astralcodexten.substack.com/p/prediction-market-faq) - Comprehensive FAQ by Scott Alexander
 - [The Passage of Polymarket](https://astralcodexten.substack.com/p/the-passage-of-polymarket) - Deep dive into Polymarket's rise
 - [Market Mechanics](https://manifoldmarkets.substack.com/p/above-the-fold-market-mechanics) - Understanding prediction market mechanics
+- [2026 midterms scorecard](https://rizon.markets/learn/how-accurate-were-prediction-markets-2026-midterms) - Price against result for 504 Polymarket races, with the data as a CSV
 
 ### News & Aggregators
 
