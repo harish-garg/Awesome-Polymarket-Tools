@@ -58,6 +58,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
+- [Perfect Clock - Polymarket Calendars](https://perfectclock.cc/polymarket) - Polymarket odds on a timeline in your time zone, next to the events markets resolve on: F1, NBA, NHL, MLB, NFL, football, UFC, Fed and CPI decisions, Bitcoin price levels, rocket launches
 
 ## Trading Bots & Automation
 
