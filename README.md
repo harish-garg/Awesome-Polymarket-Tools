@@ -54,6 +54,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ### General Analytics
 
+- [Portfin](https://portfin.app) - Free, privacy-first portfolio tracker for iOS and Android. Track Polymarket positions alongside stocks, ETFs, crypto, and other assets in one place. Read-only, no registration or ads.
 - [Polymarket Analytics](https://polymarket-analytics.com/) - Market search, activity monitoring, and portfolio tracking across multiple platforms
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
