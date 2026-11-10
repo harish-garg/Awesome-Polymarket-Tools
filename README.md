@@ -128,6 +128,7 @@ Polymarket is a decentralized information markets platform where users can trade
 ### AI Agent Integrations (MCP)
 
 - [Sim.ai - Polymarket](https://sim.ai/mcp/polymarket) - MCP integration for AI agents with market listing, price data, and order book access
+- [actually-mcp-server](https://www.npmjs.com/package/actually-mcp-server) - MCP server with check_news and get_market tools that map news text to a related Polymarket question. Optional trading tools need the operator's own key.
 
 ### API Marketplaces
 
