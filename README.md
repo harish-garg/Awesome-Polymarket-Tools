@@ -119,6 +119,7 @@ Polymarket is a decentralized information markets platform where users can trade
 ## Data APIs & Aggregators
 
 - [FinFeedAPI - Prediction Markets](https://finfeed.io/api/prediction-markets) - Unified API for Polymarket, Kalshi, Myriad, and Manifold with OHLCV data
+- [Odds-API.io](https://odds-api.io) - Sports odds API with Polymarket and Kalshi prices next to 450+ sportsbooks in one format, including bid/ask and order book depth, plus WebSocket and an MCP server
 - [Polymarket Gamma API](https://gamma-api.polymarket.com/) - Official market metadata and event data API
 - [Polymarket CLOB API](https://clob.polymarket.com/) - Official trading API with order book data and execution
 - [Bitquery Polymarket GraphQL](https://graphql.bitquery.io/) - Blockchain data and smart contract events for on-chain analytics
