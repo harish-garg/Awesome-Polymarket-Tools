@@ -46,6 +46,8 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ## Analytics & Tracking
 
+- [Callquake](https://callquake.com) — What moved on Kalshi and Polymarket and why: odds swings with the news behind them, large orders, and wallets ranked by steady profit.
+
 ### Whale Tracking
 
 - [PolyTrack](https://polytrack.org/) - Comprehensive whale tracking with real-time alerts, leaderboards, P&L tracking, and detailed trader profiles
