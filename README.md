@@ -58,6 +58,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
+- [Print Watch](https://getprintwatch.com) - Free site, no signup needed, that shows Kalshi and Polymarket odds (plus CME FedWatch for FOMC) before CPI, jobs, and FOMC releases, and archives what markets priced vs what actually printed, with a page per release
 
 ## Trading Bots & Automation
 
