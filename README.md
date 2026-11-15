@@ -133,6 +133,9 @@ Polymarket is a decentralized information markets platform where users can trade
 
 - [Polymark.et](https://polymark.et/) - Comprehensive directory of Polymarket tools and products
 
+### Developer tools
+
+- [Fathom Terminal](https://fathom-terminal.pages.dev/) - Local developer engine for public Polymarket books: feed, desk, recorder, and replay. The shipped stub places no orders. Lifetime licence. [Guides](https://fathom-terminal.pages.dev/guides/)
 ## Educational Resources
 
 ### Guides & Tutorials
