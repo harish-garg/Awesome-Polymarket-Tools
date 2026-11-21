@@ -58,6 +58,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
+- [ISOTHERM](https://isotherm-82f.pages.dev/) - Airport daily highs counted by the settlement rule of temperature markets, with a public day-by-day check against resolved outcomes and a free Python starter kit
 
 ## Trading Bots & Automation
 
