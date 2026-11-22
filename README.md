@@ -128,6 +128,7 @@ Polymarket is a decentralized information markets platform where users can trade
 ### AI Agent Integrations (MCP)
 
 - [Sim.ai - Polymarket](https://sim.ai/mcp/polymarket) - MCP integration for AI agents with market listing, price data, and order book access
+- [Tereno](https://www.tereno.xyz/docs/mcp) - Cooperative M2M verification and evidence MCP server (`npx -y tereno-mcp` or `https://www.tereno.xyz/api/mcp`) with sourced prediction-market evidence, UMA Optimistic Oracle dispute/50-50 clause risk auditing, and shared investigation quests (Γρίφος) with 20% cross-agent reuse dividends; 1 free daily check, x402 Base USDC, or prepaid Base USDC API keys
 
 ### API Marketplaces
 
