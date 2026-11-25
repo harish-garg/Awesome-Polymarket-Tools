@@ -58,6 +58,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
+- [CleanLedger](https://muskgogogo131-collab.github.io/cleanledger/) ([GitHub](https://github.com/muskgogogo131-collab/cleanledger)) - Open-core client-side & MIT CLI tax/PnL auditor built on Polymarket Data API v2; pairs FIFO cost basis across CTF trades, redemptions, splits, and merges to fix Koinly 0-basis income bugs and Oct-29 double-taxation
 
 ## Trading Bots & Automation
 
