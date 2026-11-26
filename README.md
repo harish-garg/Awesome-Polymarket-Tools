@@ -117,6 +117,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [PolyAlertHub](https://t.me/polyalerthub) - Alert system with whale tracking, volatility monitoring, and multi-channel alerts
 
 ## Data APIs & Aggregators
+- [Can I Bet In?](https://canibetin.com) - Live Kalshi vs Polymarket vs PredictIt price comparison with a public JSON feed, plus a US state-by-state legality map
 
 - [FinFeedAPI - Prediction Markets](https://finfeed.io/api/prediction-markets) - Unified API for Polymarket, Kalshi, Myriad, and Manifold with OHLCV data
 - [Polymarket Gamma API](https://gamma-api.polymarket.com/) - Official market metadata and event data API
